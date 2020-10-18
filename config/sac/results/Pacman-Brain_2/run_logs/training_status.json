@@ -1,0 +1,47 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 499960,
+                "file_path": "results\\Pacman-Brain_2\\FoodCollector\\FoodCollector-499960.nn",
+                "reward": 37.888888888888886,
+                "creation_time": 1602995677.1572564
+            },
+            {
+                "steps": 999960,
+                "file_path": "results\\Pacman-Brain_2\\FoodCollector\\FoodCollector-999960.nn",
+                "reward": 38.888888888888886,
+                "creation_time": 1602996450.9631982
+            },
+            {
+                "steps": 1499960,
+                "file_path": "results\\Pacman-Brain_2\\FoodCollector\\FoodCollector-1499960.nn",
+                "reward": 46.0,
+                "creation_time": 1602997230.600371
+            },
+            {
+                "steps": 1999960,
+                "file_path": "results\\Pacman-Brain_2\\FoodCollector\\FoodCollector-1999960.nn",
+                "reward": 44.22222222222222,
+                "creation_time": 1602998004.2559934
+            },
+            {
+                "steps": 2001280,
+                "file_path": "results\\Pacman-Brain_2\\FoodCollector\\FoodCollector-2001280.nn",
+                "reward": null,
+                "creation_time": 1602998007.638701
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2001280,
+            "file_path": "results\\Pacman-Brain_2\\FoodCollector.nn",
+            "reward": null,
+            "creation_time": 1602998007.638701
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

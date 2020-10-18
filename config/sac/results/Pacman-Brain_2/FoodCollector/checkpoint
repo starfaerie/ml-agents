@@ -1,0 +1,6 @@
+model_checkpoint_path: "FoodCollector-2001280.ckpt"
+all_model_checkpoint_paths: "FoodCollector-499960.ckpt"
+all_model_checkpoint_paths: "FoodCollector-999960.ckpt"
+all_model_checkpoint_paths: "FoodCollector-1499960.ckpt"
+all_model_checkpoint_paths: "FoodCollector-1999960.ckpt"
+all_model_checkpoint_paths: "FoodCollector-2001280.ckpt"

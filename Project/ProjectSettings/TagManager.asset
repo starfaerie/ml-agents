@@ -29,6 +29,9 @@ TagManager:
   - symbol_O_Goal
   - purpleAgent
   - purpleGoal
+  - ghost
+  - Pick Up
+  - GameArea
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,35 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 499992,
+                "file_path": "results\\GhostBrain_11\\FoodCollector\\FoodCollector-499992.nn",
+                "reward": null,
+                "creation_time": 1603011678.6682937
+            },
+            {
+                "steps": 999984,
+                "file_path": "results\\GhostBrain_11\\FoodCollector\\FoodCollector-999984.nn",
+                "reward": null,
+                "creation_time": 1603012765.227943
+            },
+            {
+                "steps": 1069960,
+                "file_path": "results\\GhostBrain_11\\FoodCollector\\FoodCollector-1069960.nn",
+                "reward": null,
+                "creation_time": 1603012947.7329645
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1069960,
+            "file_path": "results\\GhostBrain_11\\FoodCollector.nn",
+            "reward": null,
+            "creation_time": 1603012947.7329645
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

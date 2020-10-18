@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1602982286",
+        "python_version": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\astri\\anaconda3\\envs\\ML-Agents8\\Scripts\\mlagents-learn ./tennis.yaml --run-id hb_02",
+        "mlagents_version": "0.21.0",
+        "mlagents_envs_version": "0.21.0",
+        "communication_protocol_version": "1.2.0",
+        "tensorflow_version": "2.3.1",
+        "numpy_version": "1.19.1",
+        "end_time_seconds": "1602982348"
+    },
+    "total": 61.9332102,
+    "count": 1,
+    "self": 0.19311359999999667,
+    "children": {
+        "run_training.setup": {
+            "total": 0.010631900000000138,
+            "count": 1,
+            "self": 0.010631900000000138
+        },
+        "TrainerController.start_learning": {
+            "total": 61.7294647,
+            "count": 1,
+            "self": 0.0008949999999998681,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 61.728284099999996,
+                    "count": 1,
+                    "self": 61.728284099999996
+                },
+                "TrainerController._save_models": {
+                    "total": 0.000285600000005104,
+                    "count": 1,
+                    "self": 0.000285600000005104
+                }
+            }
+        }
+    }
+}

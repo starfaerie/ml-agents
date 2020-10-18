@@ -1,0 +1,23 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 188960,
+                "file_path": "results\\GhostBrain_07\\FoodCollector\\FoodCollector-188960.nn",
+                "reward": null,
+                "creation_time": 1603009294.722145
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 188960,
+            "file_path": "results\\GhostBrain_07\\FoodCollector.nn",
+            "reward": null,
+            "creation_time": 1603009294.722145
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1602982447",
+        "python_version": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\astri\\anaconda3\\envs\\ML-Agents8\\Scripts\\mlagents-learn ./Ghost.yaml --run-id hb_01",
+        "mlagents_version": "0.21.0",
+        "mlagents_envs_version": "0.21.0",
+        "communication_protocol_version": "1.2.0",
+        "tensorflow_version": "2.3.1",
+        "numpy_version": "1.19.1",
+        "end_time_seconds": "1602982475"
+    },
+    "total": 28.514022100000002,
+    "count": 1,
+    "self": 0.19520049999999856,
+    "children": {
+        "run_training.setup": {
+            "total": 0.005291700000000121,
+            "count": 1,
+            "self": 0.005291700000000121
+        },
+        "TrainerController.start_learning": {
+            "total": 28.313529900000002,
+            "count": 1,
+            "self": 0.0005220999999977494,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 28.3128081,
+                    "count": 1,
+                    "self": 28.3128081
+                },
+                "trainer_threads": {
+                    "total": 8.000000022434506e-07,
+                    "count": 1,
+                    "self": 8.000000022434506e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.00019890000000089003,
+                    "count": 1,
+                    "self": 0.00019890000000089003
+                }
+            }
+        }
+    }
+}

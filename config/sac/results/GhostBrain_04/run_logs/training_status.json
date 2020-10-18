@@ -1,0 +1,39 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 2304,
+                "file_path": "results\\GhostBrain_04\\FoodCollector\\FoodCollector-2304.nn",
+                "reward": null,
+                "creation_time": 1603005514.2249613
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2304,
+            "file_path": "results\\GhostBrain_04\\FoodCollector.nn",
+            "reward": null,
+            "creation_time": 1603005514.2249613
+        }
+    },
+    "Pacman": {
+        "checkpoints": [
+            {
+                "steps": 2304,
+                "file_path": "results\\GhostBrain_04\\Pacman\\Pacman-2304.nn",
+                "reward": null,
+                "creation_time": 1603005516.9980583
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2304,
+            "file_path": "results\\GhostBrain_04\\Pacman.nn",
+            "reward": null,
+            "creation_time": 1603005516.9980583
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

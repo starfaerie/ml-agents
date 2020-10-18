@@ -1,0 +1,23 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 5320,
+                "file_path": "results\\Pacman-Brain_1\\FoodCollector\\FoodCollector-5320.nn",
+                "reward": null,
+                "creation_time": 1602994713.166855
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5320,
+            "file_path": "results\\Pacman-Brain_1\\FoodCollector.nn",
+            "reward": null,
+            "creation_time": 1602994713.166855
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

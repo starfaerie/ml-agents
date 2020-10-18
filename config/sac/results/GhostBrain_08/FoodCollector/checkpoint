@@ -1,0 +1,2 @@
+model_checkpoint_path: "FoodCollector-43840.ckpt"
+all_model_checkpoint_paths: "FoodCollector-43840.ckpt"

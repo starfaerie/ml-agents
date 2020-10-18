@@ -1,0 +1,2 @@
+model_checkpoint_path: "Tennis-17550.ckpt"
+all_model_checkpoint_paths: "Tennis-17550.ckpt"

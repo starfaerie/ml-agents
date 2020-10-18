@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1602984080",
+        "python_version": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\astri\\anaconda3\\envs\\ML-Agents8\\Scripts\\mlagents-learn --env C:\\Users\\astri\\Documents\\GitHub\\Pacman-ml\\HummingBirdsAllDone\\Hummingbirds\\Assets\\PacMan\\Ghost.yaml --resume",
+        "mlagents_version": "0.21.0",
+        "mlagents_envs_version": "0.21.0",
+        "communication_protocol_version": "1.2.0",
+        "tensorflow_version": "2.3.1",
+        "numpy_version": "1.19.1",
+        "end_time_seconds": "1602984082"
+    },
+    "total": 1.9010000000000002,
+    "count": 1,
+    "self": 0.16993650000000016,
+    "children": {
+        "run_training.setup": {
+            "total": 0.010027800000000031,
+            "count": 1,
+            "self": 0.010027800000000031
+        },
+        "TrainerController.start_learning": {
+            "total": 1.7210357,
+            "count": 1,
+            "self": 0.0006932000000003935,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 1.7193456999999999,
+                    "count": 1,
+                    "self": 1.7193456999999999
+                },
+                "trainer_threads": {
+                    "total": 1.000000000139778e-06,
+                    "count": 1,
+                    "self": 1.000000000139778e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 0.000995799999999658,
+                    "count": 1,
+                    "self": 0.000995799999999658
+                }
+            }
+        }
+    }
+}
